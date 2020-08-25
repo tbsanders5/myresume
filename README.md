@@ -14,7 +14,6 @@ profession, it is what I love to do and that makes it possible for me to enjoy m
 
 ## Education ##
 #### UCSD Extension Bootcamp                                                         (June 2020 - December 2020) ####
-
 Certification in Full-Stack Web Development 
 
 Le Cordon Bleu College of Culinary Arts, Pasadena CA                           (November 2010 – February 2012)
