@@ -14,16 +14,20 @@ profession, it is what I love to do and that makes it possible for me to enjoy m
 
 ## Education ##
 UCSD Extension Bootcamp                                                          (June 2020 - December 2020)
+
 Certification in Full-Stack Web Development 
 
 Le Cordon Bleu College of Culinary Arts, Pasadena CA                           (November 2010 – February 2012)
+
 Associate of Occupational Studies Degree in Le Cordon Bleu Culinary Arts
 Alumni
 
 El Camino Community College, Torrance                                           (August 2007 – September 2010)
+
 Associates Degree in English Literature
 
 Julian Union High School, Julian CA                                               (August 2002 – June 2006)
+
 General Education/Diploma
 
 ## Experience ##
