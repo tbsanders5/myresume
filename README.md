@@ -1,8 +1,8 @@
 # Timothy Sanders #
-4933 Saratoga Ave. Apt 106
-San Diego CA, 92107
-(310)-426-4601
-tbsanders5@gmail.com
+* 4933 Saratoga Ave. Apt 106
+* San Diego CA, 92107
+* (310)-426-4601
+* tbsanders5@gmail.com
 * [GitHub Profile](https://github.com/tbsanders5)
 * [LinkedIn Profile](https://www.linkedin.com/in/timothy-sanders-540b6656/)
 * [Portfolio](https://tbsanders5.github.io/responsiveportfolio/)
