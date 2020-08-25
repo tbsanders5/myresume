@@ -33,7 +33,7 @@ General Education/Diploma
 1. Weather Dashboard - Weather dashboard where the user can enter in the city they wish to search and receive a 5 day forecast. This uses jQuery, Javascript, API call, some bootstrap, CSS and HTML.
 1. Coding Quiz - Quiz for beginner coders to test their Javascript knowledge. This uses Javascript, HTML and CSS.
 
-Programming Languages and Technologies
+#### Programming Languages and Technologies ####
 * HTML/CSS
 * Javascript
 * jQuery
